@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../webD"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Placement Project"
+	}
+}
